@@ -1,0 +1,33 @@
+.container-fluid-main {
+    height: 100px;
+    width: 77%;
+    position: absolute;
+    background-color: #F2F2F2;
+    top: 111px;
+    left: 23%;
+}
+
+.slc{
+    width: 300px;
+    height: 45px;
+    margin-top: 52px;
+}
+.center{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.little{
+    font-size: 16px;
+    color: #9DA8C3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -8px;
+}
+.header1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 2%;
+    color: #4F4F4F;
+
+}

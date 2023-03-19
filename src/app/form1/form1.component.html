@@ -1,0 +1,25 @@
+<div class="ana"><app-mainbar></app-mainbar>
+    <div class="container-fluid-form1">
+
+        <div class="center side ">
+            <h3 class=" header2">Vatandaş Başvurusu</h3> <br>
+            <input id="VatandasData" placeholder="{{Tc}}"
+            [(ngModel)]="Tc" class=" btn center inp" type="text" >
+           
+            <input class=" btn center inp" type="text" value="Adınız">
+            <input class="btn center inp" type="text" value="Soyadınız">
+            <input class=" btn center inp dg" type="date" value="Doğum Tarihiniz">
+            <div class="center slc form-check tik">
+                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                <label class="form-check-label" for="flexCheckDefault">
+                    <a href="Kisise.com">Kişisel verilerin korunması hakkında</a>
+                </label>
+              </div>
+            <button class=" slc gonder btn" onclick="window.location.href = 'basvur'">Başvuru Yap</button>
+        </div>
+    </div>
+</div>
+
+
+
+

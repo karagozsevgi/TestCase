@@ -1,0 +1,45 @@
+.container-fluid{
+    height: 111px;
+    width: 100%;
+    position: absolute;
+    background-color: #F2F2F2;
+    top: 0px;
+}
+.logo{
+    height: 199px;
+    width: 187px;
+    margin-left: 65px;
+}
+.search{
+    height: 45px;
+    width: 675px;
+    margin-left: 180px;
+}
+i{
+    color: #41CB83;
+    font-size: 15px;
+    margin-left: 20px;
+    position: relative;
+}
+.social{
+    width: 180px;
+    height: 45px;
+    text-align: center;
+    position: relative;
+    margin-top: 20px;
+}
+.btn{
+    width: 150px;
+    background-color: #41CB83;
+    border-color: #41CB83;
+    font-weight: bolder;
+    color: #FFFF;
+}
+.menu{
+    width: auto;
+    height: 45px;
+    position: relative;
+    color: #9DA8C3;
+    font-size: 25px;
+    margin-left: 30px;
+}

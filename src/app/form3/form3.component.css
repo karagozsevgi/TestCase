@@ -1,0 +1,130 @@
+.anax {
+    height: 74%;
+    width: 77%;
+    position: absolute;
+    background-color: rgb(204, 49, 49);
+    top: 40.5%;
+    left: 40%;
+
+
+}
+
+.drog {
+    width: 200px;
+    height: 100px;
+    background-color: bisque;
+    top: 3px;
+
+}
+
+.btn-success {
+    background-color: #41CB83;
+    text-align: center;
+}
+
+.header2 {
+    font-family: Izmir;
+    font-weight: bold;
+    font-size: 18px;
+    color: #4F4F4F;
+    position: absolute;
+    left: 20%;
+
+}
+
+a {
+
+    text-align: left;
+}
+
+.chk {
+    margin-left: 15%;
+    top: 30%;
+}
+
+.crd {
+    width: 300px;
+    height: 280px;
+    border-radius: 10px;
+    border-color: #9DA8C2;
+    border-width: 2px;
+}
+
+.ctxt {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9DA8C3;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.btn-outline-success {
+    color: #41CB83;
+
+}
+
+.butn {
+    top: 8%;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    border-color: #41CB83;
+    margin-left: 12.5%;
+    margin-right: auto;
+}
+
+img {
+    height: 165px;
+    width: 240px;
+}
+
+.ekran {
+    width: 400px;
+    height: 95%;
+    background-color: transparent;
+    margin-top: 70.5%;
+    position: relative;
+    left: 150%;
+
+}
+
+
+.inp {
+    width: 300px;
+    height: 45px;
+    margin-top: 5%;
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.slc {
+    width: 300px;
+    height: 45px;
+    margin-top: 10px;
+    position: relative;
+
+
+}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+    /* text-align: center; */
+    position: relative;
+}
+
+.little {
+    font-size: 16px;
+    color: #9DA8C3;
+    font-family: Izmir;
+    margin-top: -8px;
+}
+
+.header1 {
+    font-family: Izmir;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 5%;
+    color: #4F4F4F;
+
+}

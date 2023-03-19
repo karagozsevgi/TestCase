@@ -1,0 +1,42 @@
+.container-fluid-main {
+    height: 100%;
+    width: 77%;
+    position: absolute;
+    background-color: #F2F2F2;
+    top: 111px;
+    left: 23%;
+}
+.dwm{
+    width: 300px;
+    height: 45px;
+}
+.slc{
+    width: 300px;
+    height: 45px;
+    margin-top: 52px;
+    background-color: transparent;
+    border-color: #9DA8C3;
+    border-width: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #9DA8C3;
+}
+.center{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.little{
+    font-size: 16px;
+    color: #9DA8C3;
+    font-family: Izmir;
+    margin-top: -8px;
+}
+.header1 {
+    font-family: Izmir;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 5%;
+    color: #4F4F4F;
+
+}
